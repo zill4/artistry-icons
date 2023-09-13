@@ -1,6 +1,6 @@
 import { IconDefinition, IconPack } from '@fortawesome/fontawesome-common-types';
 
-import { Icon } from './Icon';
+import  Icon  from './Icon';
 import FontAwesomeIcon from './FontAwesomeIcon';
 
 export default class Icons {

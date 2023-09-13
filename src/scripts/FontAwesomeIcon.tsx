@@ -1,7 +1,7 @@
 import { IconDefinition } from '@fortawesome/fontawesome-common-types';
 
 import Icons from './Icons';
-import { Icon } from './Icon';
+import  Icon  from './Icon';
 
 export default class FontAwesomeIcon extends Icon {
     name: string;
